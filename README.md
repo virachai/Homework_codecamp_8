@@ -7,4 +7,4 @@ Virachai Wongsena (Chai)
 ## **Homework List:**
 | File / Folder Name | About |
 |----------------|----------------|
-| [index.html](https://virachai.github.io/index.html) | Homework001 |
+| [index.html](https://virachai.github.io/index.html) | Homework001 - Create a Static Website Using HTML |
