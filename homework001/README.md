@@ -1,5 +1,5 @@
 ### CodeCamp #8
-__ Virachai Wongsena__
+__Virachai Wongsena__
 
 #### Homework001 - ให้สร้างหน้า index.html,  profile.html และ friends.html
 	1. สร้างหน้า index.html เป็น homepage 
