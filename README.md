@@ -5,6 +5,8 @@ __Homework - Online CodeCamp#8 Full stack JavaScript__
 Virachai Wongsena (Chai)
 
 ## **Homework List:**
-| File / Folder Name | About |
-|----------------|----------------|
-| [index.html](https://virachai.github.io/index.html) | Homework001 - Create a Static Website Using HTML |
+| File / Folder Name | About | Link |
+|----------------|----------------|----------------|
+| [homework001](https://github.com/virachai/Homework_codecamp_8/tree/main/homework001/) | Create a Static Website Using HTML | [index.html](https://virachai.github.io/index.html)
+| [homework002](https://github.com/virachai/Homework_codecamp_8/tree/main/homework002/) | Create a booking.html Using HMTL Form | [booking.html](https://virachai.github.io//booking.html)
+| [homework003](https://github.com/virachai/Homework_codecamp_8/tree/main/homework003/) | Make a responsive website | [phonebook.html](https://virachai.github.io//phonebook.html)
