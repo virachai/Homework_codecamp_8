@@ -14,3 +14,6 @@ __Virachai Wongsena__
 		- ชื่อ-นามสกุล, ชื่อเล่น,เลขที่, ชื่อกลุ่ม, เบอร์โทร, site(github.io) 
 		- มี link ไปยัง 2 หน้าที่เหลือ (index.html + profile.html)
 	4. เมื่อเรียบร้อยแล้ว ให้ส่ง web site นี้ขึ้น github.io ของตัวเอง
+
+##### Link
+[index.html](https://virachai.github.io/index.html) , [profile.html](https://virachai.github.io/profile.html) , [friends.html](https://virachai.github.io/friends.html)
