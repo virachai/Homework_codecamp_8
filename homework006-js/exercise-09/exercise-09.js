@@ -34,10 +34,10 @@ alert( fruits.length ); // 4
 // No.2
 let styles = ["Jazz", "Blues"];
 styles.push("Rock-n-Roll");
-styles[1] = "Classics";
+styles.splice(1, 1, 'Classics'); // styles[1] = "Classics";
 styles.shift();
 styles.unshift("Rap", "Reggae");
-styles // (4) ["Rap", "Reggae", "Classics", "Rock-n-Roll"]
+styles; // (4) ["Rap", "Reggae", "Classics", "Rock-n-Roll"]
 
 // No.3
 const sumInput = () => {
@@ -79,9 +79,9 @@ const getMaxSubSum = (arr) => {
 	return Math.max( ...maxArray );
 }
 
-getMaxSubSum( [-1, 2, 3, -9] )				//== 5 (the sum of highlighted items)
-getMaxSubSum( [2, -1, 2, 3, -9] )			//== 6
-getMaxSubSum( [-1, 2, 3, -9, 11] )		//== 11
-getMaxSubSum( [-2, -1, 1, 2] )				//== 3
-getMaxSubSum( [100, -9, 2, -3, 5] )		//== 100
-getMaxSubSum ([1, 2, 3] )					//== 6 (take all)
+getMaxSubSum( [-1, 2, 3, -9] )              //== 5 (the sum of highlighted items)
+getMaxSubSum( [2, -1, 2, 3, -9] )          //== 6
+getMaxSubSum( [-1, 2, 3, -9, 11] )	        //== 11
+getMaxSubSum( [-2, -1, 1, 2] )              //== 3
+getMaxSubSum( [100, -9, 2, -3, 5] )      //== 100
+getMaxSubSum ([1, 2, 3] )                    //== 6 (take all)
