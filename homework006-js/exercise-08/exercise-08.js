@@ -19,12 +19,8 @@ ucFirst('f');			// 'F'
 // No.2
 const checkSpam = (string) => {
 	if (typeof string !== 'string') return false;
-
-	switch( string.toLowerCase() ) {
-		case 'xxx': return true;
-		case 'viagra': return true;
-		default: return false;
-	}
+	
+	return string.toLowerCase().includes("xxx") || string.toLowerCase().includes("viagra") ? true : false;
 }
 checkSpam('xxx');			// true
 checkSpam('viagra');		// true
